@@ -16,34 +16,34 @@ Usage
 This is a command line thing. Start by compiling it
 
 
-> make
+		make
 
 
 After compiling, install it
 
 
-> make install
+		make install
 
 
 If you wake up and realize you don't need it
 
 
-> make uninstall
+		make uninstall
 
 
 Output
 -------
 
-After it has been installed. Say you happend to see an .mp3 file in some folder.
+After it has been installed. Say you happen to see an .mp3 file in some folder.
+Enter the cmd: wtf.py xxx.mp3
 
-Here's its being run with a random mp3 file in my music directory
+Here's some output when its being run with a random mp3 file in my music directory
 
 		Artist: Bruno Mars
 		Title: When I Was Your Man
 		Album: Unorthodox Jukebox
 		Year: 2012
 
-Here's the entered cmd: wtf.py xxx.mp3
 
 License Notice
 ---------------
